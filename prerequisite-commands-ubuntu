@@ -11,5 +11,11 @@ pip3 install boto3
 source venv/bin/activate
 
 
+nano mock_data_generator.py
+
+
+nano transformation_layer_with_lambda.py
+
+
 python3 mock_data_generator_for_dynamodb.py
 
