@@ -13,4 +13,3 @@ source venv/bin/activate
 
 python3 mock_data_generator_for_dynamodb.py
 
-
