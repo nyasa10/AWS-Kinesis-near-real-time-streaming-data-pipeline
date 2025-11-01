@@ -1,0 +1,40 @@
+[
+  {
+    "Name": "orderid",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "product_name",
+    "Type": "string",
+    "Comment": ""
+  },
+  {
+    "Name": "quantity",
+    "Type": "int",
+    "Comment": ""
+  },
+  {
+    "Name": "price",
+    "Type": "double",
+    "Comment": ""
+  },
+  {
+    "Name": "year",
+    "Type": "string",
+    "Comment": "",
+    "PartitionKey": "Partition (0)"
+  },
+  {
+    "Name": "month",
+    "Type": "string",
+    "Comment": "",
+    "PartitionKey": "Partition (1)"
+  },
+  {
+    "Name": "day",
+    "Type": "string",
+    "Comment": "",
+    "PartitionKey": "Partition (2)"
+  }
+]
