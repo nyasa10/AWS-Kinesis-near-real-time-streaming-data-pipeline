@@ -13,7 +13,7 @@ A **serverless, near-real-time data pipeline** that captures, transforms, and st
 -Glue
 -CloudWatch
 -Ubuntu
-
+```
 
 ```mermaid
 graph TD
